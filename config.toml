@@ -1,0 +1,46 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Unilever Marketing Cloud"
+theme = "theme-hugo-foundation6"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[params]
+  author = "Markus Schork"
+  description = "This is a test to see if this theme renders a description."
+
+
+
+
+defaultContentLanguage = "en"
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Hello"
+weight = 1
+[[languages.en.menu.main]]
+url    = "/about"
+name   = "About"
+weight = 2
+
+
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[[languages.de.menu.main]]
+url    = "/"
+name   = "Startseite"
+weight = 0
+[[languages.de.menu.main]]
+url    = "/about"
+name   = "Über uns"
+weight = 0
