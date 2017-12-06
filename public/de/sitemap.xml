@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/de/categories/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/de/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://gallant-galileo-d90b40.netlify.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/categories/"
+                href="https://gallant-galileo-d90b40.netlify.com/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/tags/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/de/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://gallant-galileo-d90b40.netlify.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/tags/"
+                href="https://gallant-galileo-d90b40.netlify.com/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/de/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://gallant-galileo-d90b40.netlify.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/"
+                href="https://gallant-galileo-d90b40.netlify.com/de/"
                 />
   </url>
   

@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://gallant-galileo-d90b40.netlify.com"
 languageCode = "en-us"
 title = "Unilever Marketing Cloud"
 theme = "hugo_theme_robust"

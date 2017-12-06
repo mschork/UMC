@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Unilever Marketing Cloud</title>
-    <link>http://example.org/categories/</link>
+    <link>https://gallant-galileo-d90b40.netlify.com/categories/</link>
     <description>Recent content in Categories on Unilever Marketing Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gallant-galileo-d90b40.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category</title>
-      <link>http://example.org/categories/category/</link>
+      <link>https://gallant-galileo-d90b40.netlify.com/categories/category/</link>
       <pubDate>Tue, 20 Jun 2017 12:28:39 +0100</pubDate>
       
-      <guid>http://example.org/categories/category/</guid>
+      <guid>https://gallant-galileo-d90b40.netlify.com/categories/category/</guid>
       <description></description>
     </item>
     

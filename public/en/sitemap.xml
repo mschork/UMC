@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/product/dove-body-lotion/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/product/dove-body-lotion/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/about/</loc>
     <lastmod>2017-06-19T21:48:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/another-book/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/post/another-book/</loc>
     <lastmod>2017-06-14T12:51:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/good-to-great/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/post/good-to-great/</loc>
     <lastmod>2017-06-14T12:51:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/categories/"
+                href="https://gallant-galileo-d90b40.netlify.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://gallant-galileo-d90b40.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/category/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/categories/category/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/post/</loc>
     <lastmod>2017-06-14T12:51:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/product/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/product/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tag1/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/tags/tag1/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tag2/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/tags/tag2/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2017-06-20T12:28:39+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://gallant-galileo-d90b40.netlify.com/tags/</loc>
     <lastmod>2017-06-20T12:28:39+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/"
+                href="https://gallant-galileo-d90b40.netlify.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://gallant-galileo-d90b40.netlify.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gallant-galileo-d90b40.netlify.com/</loc>
+    <lastmod>2017-06-20T12:28:39+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gallant-galileo-d90b40.netlify.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gallant-galileo-d90b40.netlify.com/"
                 />
   </url>
   

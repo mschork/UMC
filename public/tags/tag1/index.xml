@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on Unilever Marketing Cloud</title>
-    <link>http://example.org/tags/tag1/</link>
+    <link>https://gallant-galileo-d90b40.netlify.com/tags/tag1/</link>
     <description>Recent content in Tag1 on Unilever Marketing Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jun 2017 12:28:39 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gallant-galileo-d90b40.netlify.com/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>dove body lotion</title>
-      <link>http://example.org/product/dove-body-lotion/</link>
+      <link>https://gallant-galileo-d90b40.netlify.com/product/dove-body-lotion/</link>
       <pubDate>Tue, 20 Jun 2017 12:28:39 +0100</pubDate>
       
-      <guid>http://example.org/product/dove-body-lotion/</guid>
+      <guid>https://gallant-galileo-d90b40.netlify.com/product/dove-body-lotion/</guid>
       <description>Let&amp;rsquo;s try this. This is {{ .Title }}</description>
     </item>
     
