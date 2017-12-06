@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Unilever Marketing Cloud"
-theme = "theme-hugo-foundation6"
+theme = "hugo_theme_robust"
 
 [taxonomies]
   category = "categories"
